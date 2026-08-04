@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "product": "FileForge",
+  "channel": "stable",
+  "version": "3.8.0",
+  "release_name": "FileForge v3.8.0",
+  "package_type": "windows-onedir",
+  "architecture": "x64",
+  "download_url": "https://github.com/Bertaloks/File-Forge/releases/download/v3.8.0/FileForge_v3.8.0_Windows_x64.zip",
+  "sha256": "cb2e3f9bae0f5f92252b462b79b6fe2f27184c2e103c27da54b9002c555a3f54",
+  "published_at": "2026-08-04T22:05:48+00:00",
+  "notes": [
+    "Gerçek çevrimiçi güncelleme yayını için güvenli latest.json üreticisi eklendi.",
+    "Online güncelleme paketlerinde SHA-256 doğrulaması zorunlu hale getirildi.",
+    "Manifest ürün, kanal, paket türü ve mimari alanları doğrulanıyor.",
+    "GitHub Release yayın klasörü ve yayın öncesi doğrulama araçları eklendi."
+  ]
+}
